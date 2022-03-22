@@ -3,4 +3,4 @@ A finite state machine circuit implemented in Logisim-evolution for educational 
 
 The .circ files are verified with Logisim-evolution Version 3.5.0 running in Ubuntu 20.04 LTS.
 
-More info about the project can be found here: <INSERT_LINK>
+More info about the project can be found here: https://pawelkusinski.wordpress.com/2022/01/23/finite-state-machine-design/
